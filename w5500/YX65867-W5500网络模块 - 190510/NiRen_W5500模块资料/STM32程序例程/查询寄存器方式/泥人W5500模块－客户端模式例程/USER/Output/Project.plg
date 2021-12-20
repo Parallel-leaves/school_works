@@ -1,0 +1,50 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\泥人(NiRen)通信模块开发平台\开发资料\泥人W5500以太网模块(TCPIP模块)\开发资料\例程\STM32程序例程(查询寄存器方式未压缩)\泥人W5500模块－客户端模式例程\Project.uvproj
+Project File Date:  03/03/2014
+
+<h2>Output:</h2>
+Build target 'Project'
+linking...
+Program Size: Code=11944 RO-data=268 RW-data=84 ZI-data=5732  
+".\USER\Output\Project.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\泥人(NiRen)通信模块开发平台\\开发资料\\泥人W5500以太网模块(TCPIP模块)\\开发资料\\例程\\STM32程序例程(查询寄存器方式未压缩)\\泥人W5500模块－客户端模式例程\\USER\\Output\\Project.AXF" 
+Set JLink Project File to "E:\泥人(NiRen)通信模块开发平台\开发资料\泥人W5500以太网模块(TCPIP模块)\开发资料\例程\STM32程序例程(查询寄存器方式未压缩)\泥人W5500模块－客户端模式例程\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 17892859 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F101R8
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
